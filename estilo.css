@@ -58,7 +58,7 @@ html{
 /* SECCION I N I C I O */
 .inicio{
     background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
-    url(img/fondo.jpg);
+    url(img/pru.jpg);
     background-size: cover;
     height: 100vh;
     color: #fff;
@@ -284,7 +284,7 @@ html{
 }
 @keyframes htmlcss {
     0%{width: 0%;}
-    100%{width: 89%;}
+    100%{width: 78%;}
 }
 
 .skills .skill .photoshop{
@@ -293,7 +293,7 @@ html{
 }
 @keyframes photoshop {
     0%{width: 0%;}
-    100%{width: 95%;}
+    100%{width: 45%;}
 }
 
 .skills .skill .wordpress{
@@ -302,7 +302,7 @@ html{
 }
 @keyframes wordpress {
     0%{width: 0%;}
-    100%{width: 81%;}
+    100%{width: 40%;}
 }
 
 .skills .skill .drupal{
@@ -311,7 +311,7 @@ html{
 }
 @keyframes drupal {
     0%{width: 0%;}
-    100%{width: 55%;}
+    100%{width: 50%;}
 }
 
 .skills .skill .comunicacion{
@@ -338,7 +338,7 @@ html{
 }
 @keyframes creatividad {
     0%{width: 0%;}
-    100%{width: 99%;}
+    100%{width: 86%;}
 }
 
 .skills .skill .dedicacion{
